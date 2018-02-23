@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\obj\Debug\CA_11_IntToRoman.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\obj\Debug\CA_11_IntToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\bin\Debug\CA_11_IntToRoman.exe.config
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\bin\Debug\CA_11_IntToRoman.exe
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\bin\Debug\CA_11_IntToRoman.pdb
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\obj\Debug\CA_11_IntToRoman.exe
+C:\Users\Chuan\Project\CA_11_IntToRoman\CA_11_IntToRoman\obj\Debug\CA_11_IntToRoman.pdb
